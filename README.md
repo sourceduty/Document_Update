@@ -11,6 +11,21 @@ Beyond just basic editing, Document Update also ensures that the information wit
 Finally, Document Update adapts to the user’s style and preferences, personalizing its revisions to align with the user’s goals. Whether the user needs a formal tone for a business report or a more conversational style for a blog post, this GPT tailors its approach accordingly. It prioritizes clarity and precision, ensuring that the final document not only meets the user’s expectations but also stands out in terms of quality and engagement. The GPT encourages feedback and seeks clarification when needed, fostering a collaborative process that ultimately results in a well-crafted, modernized document.
 
 #
+### Example Usage
+
+The 1904 edition of Shakespeare's Romeo and Juliet, edited by William J. Rolfe. The language and style reflect the period in which it was published, making it a bit dated for modern readers.
+
+```
+"O Romeo, Romeo! wherefore art thou Romeo?"
+```
+This famous line is from William Shakespeare's play Romeo and Juliet. In modern English, it translates to:
+
+```
+"Oh Romeo, Romeo! Why are you Romeo?"
+```
+Here, Juliet is not asking where Romeo is, but rather why he has to be Romeo—the son of her family’s enemy, the Montagues. She's lamenting the fact that their love is complicated by their family names.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
